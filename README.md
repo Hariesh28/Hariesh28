@@ -1,6 +1,6 @@
 ## Hi there, I'm Hariesh! 👋
 
-![Banner](https://files.oaiusercontent.com/file-18A1YX4jbzZ6grcxBXm5pOHb?se=2024-07-03T14%3A55%3A15Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dgithub-header-image.png&sig=OMA1vO6winUwJOGtXLw0DQ%2BtlOTxghpVUOvYwzmPbRg%3D)
+![Banner](https://drive.google.com/file/d/1r8yjJHGr7WGRviOnBTAaNLQwEOrRHfbe/view?usp=drive_link)
 
 ### About Me
 - 🎓 **Education**: I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science at Shiv Nadar University Chennai.

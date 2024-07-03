@@ -1,6 +1,6 @@
 ## Hi there, I'm Hariesh! 👋
 
-![Banner](https://drive.google.com/file/d/1r8yjJHGr7WGRviOnBTAaNLQwEOrRHfbe/view?usp=drive_link)
+![Banner](https://github.com/Hariesh28/Hariesh28/blob/main/github-header-image.png)
 
 ### About Me
 - 🎓 **Education**: I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science at Shiv Nadar University Chennai.

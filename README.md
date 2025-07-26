@@ -4,7 +4,7 @@
 
 ### About Me
 - 🎓 **Education**: I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science at Shiv Nadar University Chennai.
-- 📚 **Year**: I'm in my 2nd year of studies.
+- 📚 **Year**: I'm in my 3rd year of studies.
 - 🧠 **Passion**: I am passionate about understanding how data can be transformed into actionable insights and how machines can be trained to think and learn like humans.
 - 🔍 **Academic Journey**: My academic journey has provided me with a strong foundation in programming, statistics, and machine learning algorithms, which I constantly seek to expand and refine.
 - 💡 **Continuous Learning**: I'm always eager to learn new technologies and methodologies to solve real-world problems and contribute to the field of AI and Data Science.
